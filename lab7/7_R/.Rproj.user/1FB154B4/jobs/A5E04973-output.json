@@ -1,0 +1,2 @@
+[1,"Installing 'pROC' ...\n"]
+[2,"Ошибка в `colnames<-`(`*tmp*`, value = c(\"Package\", \"Version\", \"Repository\")) : \n  попытка установить имена колонок для объекта с менее чем двумя измерениями\nВызовы: .rs.sourceWithProgress ... <Anonymous> -> check_versions -> available_copr -> colnames<-\nВыполнение остановлено\n"]

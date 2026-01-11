@@ -1,0 +1,26 @@
+{
+    "id": "B167ED52",
+    "path": "~/studDir/DS_R/lab9/lab9_decision_trees.R",
+    "project_path": "lab9_decision_trees.R",
+    "type": "r_source",
+    "hash": "4152824483",
+    "contents": "",
+    "dirty": false,
+    "created": 1767600054795.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "44,0",
+        "scrollLine": "36"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1767600593,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1767600593,
+    "read_only": false,
+    "read_only_alternatives": []
+}
